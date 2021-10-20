@@ -15,7 +15,9 @@
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   
+  ##
+  
   <div>
-    !(https://github.com/vnoliveiradev/vnoliveiradev/blob/output/github-contribution-grid-snake.svg)
+    (https://github.com/vnoliveiradev/vnoliveiradev/blob/output/github-contribution-grid-snake.svg)
     </div>
   ##
